@@ -18,7 +18,7 @@
 
   3.尽量使代码简洁，减少冗余度。
 
-####对 rosiok.py 的改进[rosiok2.py](rosiok1.py)
+####对 rosiok.py 的改进[rosiok2.py](rosiok2.py)
     
   １.不再单一的下载 /shangjia/ 这一目录下的图片，包括 /shipin/ , /x/ , /app/ 的所有图片。这才发现，原来 /x/ 目录下东(zi)西(yuan)好多。不过，那么多的图片，下载好慢。
 	
